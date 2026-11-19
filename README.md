@@ -1,4 +1,4 @@
-# Hi, I'm Ping (Peter) Yang
+# Hi, I'm Ping Yang (Peter) 
 
 Cloud security architect and Python/Go engineer based in Austin, TX, with 14+ years of experience in security architecture and engineering.
 
