@@ -9,6 +9,7 @@ Cloud security architect and Python/Go engineer based in Austin, TX, with 14+ ye
 - Applied AI for environmental problems: forest health, wildfire and drought
 
 ## Projects I built
+- [secure-gemini-agent-cloud-run](https://github.com/next-drought/secure-gemini-agent-cloud-run): reference architecture and threat model for a Gemini agent with MCP tools on Cloud Run (IAM, secrets, logging, tool access)
 - [WorshipGenAI](https://github.com/next-drought/WorshipGenAI): bilingual worship program generator using Gemini (React, TypeScript, Docker, Cloud Build)
 - [forestai-rag](https://github.com/next-drought/forestai-rag): Gemini RAG over forest-health data with pgvector and an ADK agent skeleton, deployable on Cloud Run (early-stage scaffold)
 - [forestai-platform-model](https://github.com/next-drought/forestai-platform-model): oak wilt distribution data and forecasting workflow notebooks
